@@ -1,0 +1,50 @@
+html {
+    font-size: 30px;
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+    background-color: #ff9500;
+}
+
+h1 {
+    margin: 10px;
+    padding: 9px;
+    letter-spacing: 1px;
+    background-color: red;
+    color: rgb(26, 235, 224);
+    font-size: 50px;
+    text-align: center;
+}
+
+p, ul {
+    font-size: 24px;
+    line-height: 1px;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 10px solid rgb(169, 35, 35);
+}
+
+a {
+    color: red;
+    display: block;
+    text-align: center;
+}
+
+img {
+    /*height: 800px;如果height和width都有值图片将会变形；如果二者选其一设值图片将会等比例变化*/
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    margin: 20px 0 0 0;
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+    font-size: 35px;
+    color: rgb(193, 64, 14);
+    width: 800px;
+}
